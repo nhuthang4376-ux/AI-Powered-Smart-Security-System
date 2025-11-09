@@ -1,4 +1,4 @@
-AI-Powered-Smart-Security-System
+AI Powered Smart Security System
 A sensor-based security system that integrates AI for real-time intrusion detection, image analysis, and voice alerts.
 
 💡 Inspiration
